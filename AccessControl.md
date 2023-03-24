@@ -31,7 +31,7 @@
 
 - reference monitor grant or denies access.
 
-![ac1](../SecurityDatabase/img/ac1.png)
+![ac1](img/ac1.png)
 
 > **NOTE:** Trong lĩnh vực dữ liệu, "operation" (hoặc "data operation") có thể được hiểu là các hoạt động được thực hiện trên đối tượng dữ liệu được bảo vệ để trích xuất thông tin hữu ích hoặc thay đổi dữ liệu cho mục đích phân tích hoặc sử dụng khác.
 
